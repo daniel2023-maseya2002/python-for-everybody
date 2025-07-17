@@ -1,0 +1,7 @@
+name = input('Who are you? ')
+print('I am', name)
+loc = input('Where are you from? ')
+print('I am from', loc)
+age = input('How old are you? ')
+print('I am', age ,'years old')
+print('Welcome', name ,'from', loc)

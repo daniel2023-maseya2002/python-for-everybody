@@ -1,0 +1,21 @@
+ 
+Adventist University of Central Africa
+(AUCA), III
+Democratic Republic of Congo
+(DRC), II
+Global Positioning System
+(GPS), 2
+Intelligent Mobility Assistance System
+(IMAS), II
+Quick Response
+(QR), 2
+Short Message Service
+(SMS), 14
+Software Development Life Cycle
+(SDLC), 23
+Transport au Congo
+(TRANSCO), II
+Unified Modeling Language
+(UML), 23
+ 
+
